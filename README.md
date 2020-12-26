@@ -1,7 +1,8 @@
 # SudokoPuzzle
 Solving Sudoku puzzles using backtracking method
 
-ALGORITHM:
+# ALGORITHM:
+
 i. Input is taken in the form of 9 rows.
 
 ii. Every row of input consists of numbers separated by a space.
